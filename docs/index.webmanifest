@@ -1,0 +1,16 @@
+{
+	"lang": "en",
+	"name": "[wm.n]Space RPG",
+	"icons": [
+		{
+			"src": "./icons/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "./index.html?ref=webmanifest",
+	"display": "standalone",
+	"short_name": "[wm.s]Space RPG",
+	"theme_color": "#e5d8bd",
+	"background_color": "black"
+}
